@@ -28,7 +28,7 @@
                     <ul class="navbar-nav ml-auto my-2 my-lg-0">
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="<?= base_url()?>angket">ANGKET MAHASISWA</a></li>
 						<li class="nav-item"><a class="nav-link js-scroll-trigger" href="http://sim.uwpdoit.com/" target="_blank">SIPENJAMU-V1</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="<?= base_url()?>index.php/login">LOGIN</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="<?= base_url()?>login">LOGIN</a></li>
 
                     </ul>
                 </div>

@@ -81,10 +81,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'simlive',
+	'hostname' => '156.67.215.53',
+	'username' => 'u6347113',
+	'password' => 'myBy0802',
+	'database' => 'u6347113_simlive',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

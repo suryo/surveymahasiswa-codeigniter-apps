@@ -22,7 +22,7 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-5 mx-auto mt-5">
-                <form action="<?= base_url()."index.php/login" ?>" method="POST">
+                <form action="<?= base_url()."login" ?>" method="POST">
                     <div class="form-group">
                         <label for="email">Email</label>
                         <input type="text" class="form-control" name="email" placeholder="Pakai username juga bisa.." required />

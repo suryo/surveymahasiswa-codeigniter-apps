@@ -13,7 +13,7 @@ class Login extends CI_Controller
     {
         // jika form login disubmit
         if($this->input->post()){
-            if($this->model_users->doLogin()) redirect(base_url().'index.php/admin');
+            if($this->model_users->doLogin()) redirect(base_url().'admin');
         }
 
         // tampilkan halaman login
@@ -24,6 +24,6 @@ class Login extends CI_Controller
     {
         // hancurkan semua sesi
         $this->session->sess_destroy();
-        redirect(base_url().'index.php/login');
+        redirect(base_url().'login');
     }
 }
