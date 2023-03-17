@@ -8,7 +8,7 @@
     <title>Login Admin</title>
 
     <!-- Bootstrap core CSS-->
-    <link href="http://116.254.115.146/surveymahasiswa/template/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://localhost/surveymahasiswa-codeigniter-apps/template/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 </head>
 
 <body>

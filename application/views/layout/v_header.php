@@ -34,7 +34,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="<?=base_url()?>" class="brand-link">
-      <img src="http://116.254.115.146/surveymahasiswa/template/admin/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
+      <img src="http://localhost/surveymahasiswa-codeigniter-apps/template/admin/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8">
       <span class="brand-text font-weight-light">BPM-SIPENJAMU</span>
     </a>

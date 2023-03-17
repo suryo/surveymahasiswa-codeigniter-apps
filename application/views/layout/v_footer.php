@@ -21,13 +21,13 @@
 <!-- REQUIRED SCRIPTS -->
 
 <!-- jQuery -->
-<script src="http://116.254.115.146/surveymahasiswa/template/admin/plugins/jquery/jquery.min.js"></script>
+<script src="http://localhost/surveymahasiswa-codeigniter-apps/template/admin/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
-<script src="http://116.254.115.146/surveymahasiswa/template/admin/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="http://localhost/surveymahasiswa-codeigniter-apps/template/admin/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
-<script src="http://116.254.115.146/surveymahasiswa/template/admin/dist/js/adminlte.min.js"></script>
+<script src="http://localhost/surveymahasiswa-codeigniter-apps/template/admin/dist/js/adminlte.min.js"></script>
 <!-- Select2 -->
-<script src="http://116.254.115.146/surveymahasiswa/template/admin/plugins/select2/js/select2.full.min.js"></script>
+<script src="http://localhost/surveymahasiswa-codeigniter-apps/template/admin/plugins/select2/js/select2.full.min.js"></script>
 
 <script>
   $(function () {

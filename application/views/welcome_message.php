@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>BPM-SIPENJAMU</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="http://116.254.115.146/surveymahasiswa/template/front/assets/img/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="http://localhost/surveymahasiswa-codeigniter-apps/template/front/assets/img/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.13.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -16,7 +16,7 @@
         <!-- Third party plugin CSS-->
         <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="http://116.254.115.146/surveymahasiswa/template/front/css/styles.css" rel="stylesheet" />
+        <link href="http://localhost/surveymahasiswa-codeigniter-apps/template/front/css/styles.css" rel="stylesheet" />
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -63,6 +63,6 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
         <!-- Core theme JS-->
-        <script src="http://116.254.115.146/surveymahasiswa/template/front/js/scripts.js"></script>
+        <script src="//http://localhost/surveymahasiswa-codeigniter-apps/template/front/js/scripts.js"></script>
     </body>
 </html>
